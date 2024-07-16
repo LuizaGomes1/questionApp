@@ -44,15 +44,15 @@ struct lastPage: View {
         }
         
         if animal == "🐶"{
-            Text("and you are a dog person.")
+            Text("and you're a dog person.")
         }
         
         if animal == "🦊"{
-            Text("and you are a fox person.")
+            Text("and you're a fox person.")
         }
         
         if animal == "🐈"{
-            Text("and you are a cat person.")
+            Text("and you're a cat person.")
         }
         
     }
